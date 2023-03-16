@@ -252,7 +252,8 @@
         <snap.classes>
             com.example.purpleair.PurpleAirAPIReader,
             com.example.yahoofinance.YahooFinanceAPIReader,
-            com.example.document.DocumentFlattener
+            com.example.document.DocumentFlattener,
+            com.example.document.DocumentFlattener2
         </snap.classes>
         <!-- Enter your cc key prefix from keys.properties -->
         <key.prefix>cc</key.prefix>
